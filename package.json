@@ -1,6 +1,6 @@
 {
   "name": "@jan25/react-typing-hook",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "description": "Simple React hook to manage state for auto typing text",
   "main": "build/hook.js",
   "typings": "build/hook.d.ts",
@@ -8,16 +8,20 @@
     "build": "rm -rf ./build && tsc --build",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
+  "author": {
+    "name": "Abhilash Gnan",
+    "url": "http://github.com/jan25",
+    "email": "abhilashgnan@gmail.com"
+  },
   "repository": {
     "type": "git",
-    "url": "github.com/jan25/react-typing-hook"
+    "url": "https://github.com/jan25/react-typing-hook.git"
   },
   "keywords": [
     "react-hook",
     "auto-typing",
     "state-management"
   ],
-  "author": "jan25 <abhilashgnan@gmail.com> (github.com/jan25)",
   "license": "MIT",
   "devDependencies": {
     "react": "^17.0.1",
