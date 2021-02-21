@@ -26,4 +26,4 @@ export default function App() {
 }
 ```
 
-See [`example`](github.com/jan25/react-typing-hook/example) app in the Github repository.
+See [`example`](https://github.com/jan25/react-typing-hook/tree/master/example) app in the Github repository.
