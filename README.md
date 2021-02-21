@@ -4,6 +4,10 @@ Simple React Hook to manage state for auto typing text.
 
 ## Sample Usage
 
+```bash
+npm i --save @jan25/react-typing-hook
+```
+
 ```jsx
 import useAutoType from '@jan25/react-typing-hook';
 
